@@ -1,6 +1,7 @@
 Packer and MongoDB Challenge.
 
 Instructions
+
 For the challenge we would like you to create a Packer file that create us an AMI that is provisioned for MongoDB. We don’t require you to connect the App at the moment but we should like to see a working machine that has a Mongo shell running inside. (Ideally this can be a screen recording).
 You have the starter code above and there is a the Packer file missing. Complete the code needed to create the MongoDB AMI. Deliverables below.
 Repo on GitHub with Code and README.md
