@@ -7,9 +7,13 @@ The started code has been provided, with packer file missing. Fill in the packer
 
 
 -Repo on GitHub with Code and README.md
+
 -Complete Packer file to configure MongoDB
+
 -An instance created on AWS (Turned off when not using)
+
 -A screen recording and README explaining what the repo does and showcasing your work
+
 
 Objective: Configure packer.json file to create a new AMI on AWS and then launch an instance. After that, SSH into the instance, to show MondoDB working correctly.
 
