@@ -15,6 +15,14 @@ The started code has been provided, with packer file missing. Fill in the packer
 -A screen recording and README explaining what the repo does and showcasing your work
 
 
-Objective: Configure packer.json file to create a new AMI on AWS and then launch an instance. After that, SSH into the instance, to show MondoDB working correctly.
+Steps:
+
+-Configure packer.json file to create a new AMI
+
+-Go to AWS and launch an instance from the AMI. Remember about your AWS pem key. It's needed for the next step.
+
+-Using public IP of that instance, SSH into it from your machine.
+
+-While inside use command 'mongosh' and then 'show dbs' to check if the DB is working correctly.
 
 ![Gif showcasing working instance and DB](https://github.com/waltervoynarovsky/packer-mongodb-challenge/blob/main/Screen%20recording.gif)
