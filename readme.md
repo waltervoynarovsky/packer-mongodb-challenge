@@ -17,7 +17,7 @@ The started code has been provided, with packer file missing. Fill in the packer
 
 Steps:
 
--Configure packer.json file to create a new AMI
+-Configure packer.json file to create new AMI
 
 -Go to AWS and launch an instance from the AMI. Remember about your AWS pem key. It's needed for the next step.
 
